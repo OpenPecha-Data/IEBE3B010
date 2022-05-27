@@ -1,0 +1,310 @@
+id: IEBE3B010
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T15:42:58.399486'
+last_modified: '2022-05-27T15:42:58.399501'
+parser: null
+source_metadata:
+  title: 'PP: Vajracchedikā Prajñāpāramitā'
+  language: zh
+  base:
+    fD4E4:
+      title: Title
+      base_file: fD4E4.txt
+      order: 1
+    fBB68:
+      title: Preface
+      base_file: fBB68.txt
+      order: 2
+    f9C09:
+      title: §1
+      base_file: f9C09.txt
+      order: 3
+    f5BD5:
+      title: §2
+      base_file: f5BD5.txt
+      order: 4
+    f7D12:
+      title: §3
+      base_file: f7D12.txt
+      order: 5
+    f2875:
+      title: §4
+      base_file: f2875.txt
+      order: 6
+    f2664:
+      title: §5
+      base_file: f2664.txt
+      order: 7
+    f3172:
+      title: §6
+      base_file: f3172.txt
+      order: 8
+    f6159:
+      title: §7
+      base_file: f6159.txt
+      order: 9
+    f0FDF:
+      title: §8
+      base_file: f0FDF.txt
+      order: 10
+    fC94A:
+      title: CI_a
+      base_file: fC94A.txt
+      order: 11
+    f6E15:
+      title: CI_b
+      base_file: f6E15.txt
+      order: 12
+    f44A9:
+      title: CI_c
+      base_file: f44A9.txt
+      order: 13
+    fF9E3:
+      title: CI_d
+      base_file: fF9E3.txt
+      order: 14
+    f8D4B:
+      title: CI_e
+      base_file: f8D4B.txt
+      order: 15
+    fB11D:
+      title: CII_a
+      base_file: fB11D.txt
+      order: 16
+    f7E8D:
+      title: CII_b
+      base_file: f7E8D.txt
+      order: 17
+    f2959:
+      title: CII_c
+      base_file: f2959.txt
+      order: 18
+    f271A:
+      title: §11
+      base_file: f271A.txt
+      order: 19
+    fE792:
+      title: §12
+      base_file: fE792.txt
+      order: 20
+    f5129:
+      title: CIII_a
+      base_file: f5129.txt
+      order: 21
+    fD4C4:
+      title: CIII_b
+      base_file: fD4C4.txt
+      order: 22
+    f2123:
+      title: CIII_c
+      base_file: f2123.txt
+      order: 23
+    f477D:
+      title: CIII_d
+      base_file: f477D.txt
+      order: 24
+    fAEA0:
+      title: CIII_e
+      base_file: fAEA0.txt
+      order: 25
+    f1799:
+      title: CIV_a
+      base_file: f1799.txt
+      order: 26
+    fAC0F:
+      title: CIV_b
+      base_file: fAC0F.txt
+      order: 27
+    fD88D:
+      title: CIV_c
+      base_file: fD88D.txt
+      order: 28
+    f349B:
+      title: CIV_d
+      base_file: f349B.txt
+      order: 29
+    fBC2A:
+      title: CIV_e
+      base_file: fBC2A.txt
+      order: 30
+    f5AEA:
+      title: CIV_f
+      base_file: f5AEA.txt
+      order: 31
+    f868A:
+      title: CIV_g
+      base_file: f868A.txt
+      order: 32
+    f29B8:
+      title: CIV_h
+      base_file: f29B8.txt
+      order: 33
+    f4E14:
+      title: CV_a
+      base_file: f4E14.txt
+      order: 34
+    fD1D6:
+      title: CV_b
+      base_file: fD1D6.txt
+      order: 35
+    f262E:
+      title: CV_c
+      base_file: f262E.txt
+      order: 36
+    fBFDA:
+      title: CVI_a
+      base_file: fBFDA.txt
+      order: 37
+    f682F:
+      title: CVI_b
+      base_file: f682F.txt
+      order: 38
+    f7A78:
+      title: CVI_c
+      base_file: f7A78.txt
+      order: 39
+    f896D:
+      title: CVII_a
+      base_file: f896D.txt
+      order: 40
+    f8414:
+      title: CVII_b
+      base_file: f8414.txt
+      order: 41
+    f37E9:
+      title: CVII_c
+      base_file: f37E9.txt
+      order: 42
+    f4DDF:
+      title: CVII_d
+      base_file: f4DDF.txt
+      order: 43
+    f4444:
+      title: CVII_e
+      base_file: f4444.txt
+      order: 44
+    fEA30:
+      title: CVII_f
+      base_file: fEA30.txt
+      order: 45
+    fD6DD:
+      title: CVII_g
+      base_file: fD6DD.txt
+      order: 46
+    f0A41:
+      title: CVII_h
+      base_file: f0A41.txt
+      order: 47
+    f69D9:
+      title: CVIII_a
+      base_file: f69D9.txt
+      order: 48
+    fD027:
+      title: CVIII_b
+      base_file: fD027.txt
+      order: 49
+    f672C:
+      title: CIX_a
+      base_file: f672C.txt
+      order: 50
+    f8509:
+      title: CIX_b
+      base_file: f8509.txt
+      order: 51
+    f4F54:
+      title: CX_a
+      base_file: f4F54.txt
+      order: 52
+    fBF75:
+      title: CX_b
+      base_file: fBF75.txt
+      order: 53
+    fFFDF:
+      title: CXI_a
+      base_file: fFFDF.txt
+      order: 54
+    f399E:
+      title: §23
+      base_file: f399E.txt
+      order: 55
+    fB123:
+      title: §24
+      base_file: fB123.txt
+      order: 56
+    f112A:
+      title: §25
+      base_file: f112A.txt
+      order: 57
+    f0AA8:
+      title: CXII_a
+      base_file: f0AA8.txt
+      order: 58
+    fAAA6:
+      title: CXII_b
+      base_file: fAAA6.txt
+      order: 59
+    f2A88:
+      title: §27
+      base_file: f2A88.txt
+      order: 60
+    fFCE2:
+      title: §28
+      base_file: fFCE2.txt
+      order: 61
+    f9E0C:
+      title: §29
+      base_file: f9E0C.txt
+      order: 62
+    f4A4A:
+      title: CXIII_a
+      base_file: f4A4A.txt
+      order: 63
+    f6676:
+      title: CXIII_b
+      base_file: f6676.txt
+      order: 64
+    f613E:
+      title: CXIV_a
+      base_file: f613E.txt
+      order: 65
+    f82B5:
+      title: CXIV_b
+      base_file: f82B5.txt
+      order: 66
+    f962A:
+      title: CXV_a
+      base_file: f962A.txt
+      order: 67
+    fDA66:
+      title: CXV_b
+      base_file: fDA66.txt
+      order: 68
+    f9FA6:
+      title: Colophon
+      base_file: f9FA6.txt
+      order: 69
+  chapter_to_tile:
+    CI: §9
+    CII: §10
+    CIII: §13
+    CIV: §14
+    CV: §15
+    CVI: §16
+    CVII: §17
+    CVIII: §18
+    CIX: §19
+    CX: §21
+    CXI: §22
+    CXII: §26
+    CXIII: §30
+    CXIV: §31
+    CXV: §32
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
